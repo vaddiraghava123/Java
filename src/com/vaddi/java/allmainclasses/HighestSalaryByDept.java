@@ -8,7 +8,7 @@ import java.util.Optional;
 import java.util.function.BinaryOperator;
 import java.util.stream.Collectors;
 
-import com.vaddi.javabasics.custommarkerandclone.EmployeeList;
+import com.vaddi.java.custommarkerandclone.EmployeeList;
 
 public class HighestSalaryByDept {
 

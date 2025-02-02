@@ -20,16 +20,16 @@ import java.util.function.Predicate;
 import java.util.function.Supplier;
 import java.util.stream.Collectors;
 
+import com.vaddi.java.custommarkerandclone.Address;
+import com.vaddi.java.custommarkerandclone.EmployeeClone;
+import com.vaddi.java.custommarkerandclone.FuncInterface;
+import com.vaddi.java.custommarkerandclone.NonCustomMarkerImplementation;
+import com.vaddi.java.custommarkerandclone.TestJavaClass;
+import com.vaddi.java.custommarkerandclone.customMarkerImplementation;
+import com.vaddi.java.custommarkerandclone.customMarkerInterface;
 import com.vaddi.java.jdk8.ImplementFunctionInterface1;
 import com.vaddi.java.jdk8.TestFunctionalInterface;
 import com.vaddi.java.recordclass.StudentRecord;
-import com.vaddi.javabasics.custommarkerandclone.Address;
-import com.vaddi.javabasics.custommarkerandclone.EmployeeClone;
-import com.vaddi.javabasics.custommarkerandclone.FuncInterface;
-import com.vaddi.javabasics.custommarkerandclone.NonCustomMarkerImplementation;
-import com.vaddi.javabasics.custommarkerandclone.TestJavaClass;
-import com.vaddi.javabasics.custommarkerandclone.customMarkerImplementation;
-import com.vaddi.javabasics.custommarkerandclone.customMarkerInterface;
 
 
 public class BasicJavaProgram {

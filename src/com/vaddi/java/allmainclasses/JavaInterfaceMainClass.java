@@ -1,8 +1,8 @@
 package com.vaddi.java.allmainclasses;
 
-import com.vaddi.javabasics.interfaceplay.EventListener;
-import com.vaddi.javabasics.interfaceplay.InterfaceC;
-import com.vaddi.javabasics.interfaceplay.MainClass;
+import com.vaddi.java.interfaceplay.EventListener;
+import com.vaddi.java.interfaceplay.InterfaceC;
+import com.vaddi.java.interfaceplay.MainClass;
 
 public class JavaInterfaceMainClass {
 

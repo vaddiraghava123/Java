@@ -1,7 +1,7 @@
 package com.vaddi.java.allmainclasses;
 
-import com.vaddi.javabasics.defaultandstaticmethodsininterface.Car;
-import com.vaddi.javabasics.defaultandstaticmethodsininterface.Vehicle;
+import com.vaddi.java.defaultandstaticmethodsininterface.Car;
+import com.vaddi.java.defaultandstaticmethodsininterface.Vehicle;
 
 public class DefaultAndStaticMainClass {
 
