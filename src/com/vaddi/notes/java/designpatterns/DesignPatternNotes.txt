@@ -1,0 +1,24 @@
+Design Patterns
+--------------
+They are reusable in multiple projects.
+They provide the solutions that help to define the system architecture.
+They capture the software engineering experiences
+
+Creational Pattern
+		Factory Method or Virtual Constructor
+		Abstract Factory
+		Singleton
+		Builder
+Structural Pattern
+		Adapter
+		Bridge
+		Decorator - No
+		Facade - No
+		Flyweight - No
+		Proxy 
+Behaviour Pattern
+		State
+		Observer		
+	    
+
+
