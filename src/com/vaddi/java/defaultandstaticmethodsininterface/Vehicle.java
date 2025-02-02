@@ -1,4 +1,4 @@
-package com.vaddi.javabasics.defaultandstaticmethodsininterface;
+package com.vaddi.java.defaultandstaticmethodsininterface;
 
 public interface Vehicle {
 

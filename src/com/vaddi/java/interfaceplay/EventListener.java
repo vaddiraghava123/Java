@@ -1,4 +1,4 @@
-package com.vaddi.javabasics.interfaceplay;
+package com.vaddi.java.interfaceplay;
 
 public class EventListener {
 

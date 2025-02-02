@@ -1,4 +1,4 @@
-package com.vaddi.automation.selenium;
+package com.vaddi.java.automation.selenium;
 
 import java.util.Iterator;
 import java.util.Set;

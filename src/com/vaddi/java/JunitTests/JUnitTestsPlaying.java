@@ -1,4 +1,4 @@
-package com.vaddi.JunitTests;
+package com.vaddi.java.JunitTests;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertThrows;

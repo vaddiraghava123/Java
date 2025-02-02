@@ -1,4 +1,4 @@
-package com.vaddi.javabasics.custommarkerandclone;
+package com.vaddi.java.custommarkerandclone;
 
 @FunctionalInterface
 public interface FuncInterface {

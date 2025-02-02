@@ -1,4 +1,4 @@
-package com.vaddi.designpattern.builderPattern;
+package com.vaddi.java.designpatterns.builderPattern;
 
 public class BottlePack implements Packing{
 

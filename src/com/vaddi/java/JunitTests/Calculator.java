@@ -1,4 +1,4 @@
-package com.vaddi.JunitTests;
+package com.vaddi.java.JunitTests;
 
 public class Calculator {
 	public int sum(int a, int b) {

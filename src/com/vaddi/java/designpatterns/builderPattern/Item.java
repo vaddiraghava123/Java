@@ -1,4 +1,4 @@
-package com.vaddi.designpattern.builderPattern;
+package com.vaddi.java.designpatterns.builderPattern;
 
 public interface Item {
 	 String name();

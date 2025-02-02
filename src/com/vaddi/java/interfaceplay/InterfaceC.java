@@ -1,4 +1,4 @@
-package com.vaddi.javabasics.interfaceplay;
+package com.vaddi.java.interfaceplay;
 
 public interface InterfaceC {
 	public static final int i = 0;

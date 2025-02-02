@@ -1,4 +1,4 @@
-package com.vaddi.javabasics.practice;
+package com.vaddi.java.practice;
 
 import java.util.HashMap;
 import java.util.List;

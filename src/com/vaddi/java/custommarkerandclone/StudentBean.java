@@ -1,4 +1,4 @@
-package com.vaddi.javabasics.custommarkerandclone;
+package com.vaddi.java.custommarkerandclone;
 
 import java.util.Objects;
 

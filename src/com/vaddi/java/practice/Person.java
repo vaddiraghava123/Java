@@ -1,4 +1,4 @@
-package com.vaddi.javabasics.practice;
+package com.vaddi.java.practice;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
